@@ -92,5 +92,4 @@ Consult the documentation of the specific charts for an overview of all configur
 
 - [backend](./charts/backend)
 - [frontend](./charts/frontend)
-- [classification](./charts/classification)
 - [mapserver](./charts/mapserver)
