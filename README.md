@@ -1,6 +1,6 @@
 # AAPP Helm charts
 
-[AAPP](https://aapp.org/) helps cities receive, manage and solve nuisance reports. The software is open source and therefore free for others to use. This repository contains [Helm charts](https://helm.sh/) to easily install the AAPP stack on a Kubernetes cluster.
+[AAPP] This repository contains [Helm charts](https://helm.sh/) to easily install the AAPP stack on a Kubernetes cluster.
 
 ## External authentication
 
